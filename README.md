@@ -17,6 +17,9 @@
 
 > 更多历史版本请访问 [Releases 页面](https://github.com/jielosc/PixPin-Archive/releases)。
 
+> [!TIP]
+> **个人推荐版本：v2.1.8**
+
 ## 🔗 官方资源
 
 * **官方网站**: [https://pixpin.cn/](https://pixpin.cn/)
